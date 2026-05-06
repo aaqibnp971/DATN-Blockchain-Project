@@ -1,0 +1,11 @@
+# Go build output
+*.exe
+credential_contract.exe
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/

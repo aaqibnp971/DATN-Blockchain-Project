@@ -1,0 +1,17 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1"
+  ],
+  "id": "http://university.edu/credentials/2023A7PS0286U",
+  "type": [
+    "VerifiableCredential",
+    "UniversityDegreeCredential"
+  ],
+  "issuer": "did:fabric:BITS_Pilani",
+  "issuanceDate": "2025-12-13T10:05:28.732Z",
+  "credentialSubject": {
+    "id": "did:sov:2023A7PS0286U",
+    "degree": "Bachelor of Science in Computer Science",
+    "alumni_of": "BITS Pilani"
+  }
+}
